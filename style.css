@@ -1,0 +1,25 @@
+.postContainer {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border: 1px solid grey;
+  border-radius: 20px;
+}
+
+.container {
+  height: 80vh;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: 1px solid red;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.bgRed {
+  background-color: red;
+}
